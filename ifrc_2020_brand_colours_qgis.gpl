@@ -1,0 +1,24 @@
+GIMP Palette
+Name: QGIS Palette
+Columns: 4
+#
+ 50  50  50	Dark Grey: Pantone Black 7 CP
+255 255 255	White
+245  51  63	Red: Pantone Red 032 C
+  1  30  65	Pantone 282 C
+  0 151 117	Pantone 334 C
+  0 171 132	Pantone Green C
+ 71 215 172	Pantone 3385 C
+  0 156 221	Pantone Process Cyan C
+ 65 143 222	Pantone 279 C
+ 35  97 146	Pantone 647 C
+ 27  54  93	Pantone 534 C
+ 46  26  71	Pantone 2695 C
+149 141 190	PANTONE 7446 CP
+ 81  45 109	Pantone 269 C
+137  59 103	Pantone 689 C
+217 134 186	Pantone 673 C
+210  39  48	Pantone 1795 C
+255 130   0	Pantone 151 C
+255 178  91	Pantone 150 C
+251 219 101	Pantone 120 C

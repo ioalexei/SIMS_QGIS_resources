@@ -1,0 +1,8 @@
+GIMP Palette
+Name: QGIS Palette
+Columns: 4
+#
+ 50  50  50	IFRC black
+255 255 255	IFRC white
+245  51  63	IFRC red
+  1  30  65	IFRC navy

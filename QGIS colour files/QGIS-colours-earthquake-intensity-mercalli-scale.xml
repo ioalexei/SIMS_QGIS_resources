@@ -1,0 +1,39 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols/>
+  <colorramps>
+    <colorramp type="preset" tags="earthquake,intensity" name="Mercalli intensity scale">
+      <Option type="Map">
+        <Option value="255,255,255,255" type="QString" name="preset_color_0"/>
+        <Option value="191,204,255,255" type="QString" name="preset_color_1"/>
+        <Option value="136,0,0,255" type="QString" name="preset_color_10"/>
+        <Option value="68,0,0,255" type="QString" name="preset_color_11"/>
+        <Option value="153,153,255,255" type="QString" name="preset_color_2"/>
+        <Option value="136,255,255,255" type="QString" name="preset_color_3"/>
+        <Option value="125,248,148,255" type="QString" name="preset_color_4"/>
+        <Option value="255,255,0,255" type="QString" name="preset_color_5"/>
+        <Option value="255,221,0,255" type="QString" name="preset_color_6"/>
+        <Option value="255,145,0,255" type="QString" name="preset_color_7"/>
+        <Option value="255,0,0,255" type="QString" name="preset_color_8"/>
+        <Option value="221,0,0,255" type="QString" name="preset_color_9"/>
+        <Option value="I. Not felt" type="QString" name="preset_color_name_0"/>
+        <Option value="II. Weak" type="QString" name="preset_color_name_1"/>
+        <Option value="XI. Extreme" type="QString" name="preset_color_name_10"/>
+        <Option value="XII. Extreme" type="QString" name="preset_color_name_11"/>
+        <Option value="III. Weak" type="QString" name="preset_color_name_2"/>
+        <Option value="IV. Light" type="QString" name="preset_color_name_3"/>
+        <Option value="V. Moderate" type="QString" name="preset_color_name_4"/>
+        <Option value="VI. Strong" type="QString" name="preset_color_name_5"/>
+        <Option value="VII. Very strong" type="QString" name="preset_color_name_6"/>
+        <Option value="VII. Severe" type="QString" name="preset_color_name_7"/>
+        <Option value="IX. Violent" type="QString" name="preset_color_name_8"/>
+        <Option value="X. Extreme" type="QString" name="preset_color_name_9"/>
+        <Option value="preset" type="QString" name="rampType"/>
+      </Option>
+    </colorramp>
+  </colorramps>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
